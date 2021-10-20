@@ -1,0 +1,16 @@
+D:\UNI\CodeWars\Simple Pig Latin\Simple Pig Latin\bin\Debug\net5.0\Simple Pig Latin.exe
+D:\UNI\CodeWars\Simple Pig Latin\Simple Pig Latin\bin\Debug\net5.0\Simple Pig Latin.deps.json
+D:\UNI\CodeWars\Simple Pig Latin\Simple Pig Latin\bin\Debug\net5.0\Simple Pig Latin.runtimeconfig.json
+D:\UNI\CodeWars\Simple Pig Latin\Simple Pig Latin\bin\Debug\net5.0\Simple Pig Latin.runtimeconfig.dev.json
+D:\UNI\CodeWars\Simple Pig Latin\Simple Pig Latin\bin\Debug\net5.0\Simple Pig Latin.dll
+D:\UNI\CodeWars\Simple Pig Latin\Simple Pig Latin\bin\Debug\net5.0\ref\Simple Pig Latin.dll
+D:\UNI\CodeWars\Simple Pig Latin\Simple Pig Latin\bin\Debug\net5.0\Simple Pig Latin.pdb
+D:\UNI\CodeWars\Simple Pig Latin\Simple Pig Latin\obj\Debug\net5.0\Simple Pig Latin.csproj.AssemblyReference.cache
+D:\UNI\CodeWars\Simple Pig Latin\Simple Pig Latin\obj\Debug\net5.0\Simple Pig Latin.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\CodeWars\Simple Pig Latin\Simple Pig Latin\obj\Debug\net5.0\Simple Pig Latin.AssemblyInfoInputs.cache
+D:\UNI\CodeWars\Simple Pig Latin\Simple Pig Latin\obj\Debug\net5.0\Simple Pig Latin.AssemblyInfo.cs
+D:\UNI\CodeWars\Simple Pig Latin\Simple Pig Latin\obj\Debug\net5.0\Simple Pig Latin.csproj.CoreCompileInputs.cache
+D:\UNI\CodeWars\Simple Pig Latin\Simple Pig Latin\obj\Debug\net5.0\Simple Pig Latin.dll
+D:\UNI\CodeWars\Simple Pig Latin\Simple Pig Latin\obj\Debug\net5.0\ref\Simple Pig Latin.dll
+D:\UNI\CodeWars\Simple Pig Latin\Simple Pig Latin\obj\Debug\net5.0\Simple Pig Latin.pdb
+D:\UNI\CodeWars\Simple Pig Latin\Simple Pig Latin\obj\Debug\net5.0\Simple Pig Latin.genruntimeconfig.cache
